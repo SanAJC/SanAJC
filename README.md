@@ -8,7 +8,7 @@
   
 💻 Cuento con experiencia en proyectos de desarrollo web y movil.
 
-📝 roles en mi campo: Lider...analista....desarrollador y testing.
+📝 roles en mi campo: Lider...analista....desarrollador de software.
 
 📫 Contacto: **sanjaimesgo@gmail.com**
 <!--Intro end-->
@@ -19,7 +19,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,css,html,mysql,sqlite,firebase,git,github,vscode,django,react,figma" />
+    <img src="https://skillicons.dev/icons?i=py,css,html,mysql,sqlite,git,github,vscode,django,figma" />
   </a>
 </p>
 <br>
