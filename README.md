@@ -8,7 +8,7 @@
   
 💻 Cuento con experiencia en proyectos de desarrollo web y movil.
 
-📝 roles en mi campo: Lider...analista....desarrollador de software.
+📝 roles en mi campo: Lider....desarrollador de software.
 
 📫 Contacto: **sanjaimesgo@gmail.com**
 <!--Intro end-->
