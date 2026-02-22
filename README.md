@@ -4,7 +4,7 @@
 <h2>Sobre mi 😃</h2>
 
 <p align="left">
-👨‍💻 INGENIERO DE SOFTWARE EN FORMACION
+👨‍💻 INGENIERO DE SOFTWARE
   
 💻 Cuento con experiencia en proyectos de desarrollo web y movil.
 
