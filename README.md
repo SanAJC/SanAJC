@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santiago Jaimes</h1>
 <h3 align="center">Full-Stack Software Engineer | AI & IoT Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7¢er=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%26+IoT+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
-</p>
-
 ---
-
 ### 👨‍💻 About Me
 
 Full-Stack Software Engineer with experience delivering end-to-end solutions, from robust REST APIs with **Django** and **NestJS** to modern interfaces with **React** and **TypeScript**. Specialized in **AI automation** (LLMs, n8n) and **IoT integration**. Focused on transforming complex business requirements into maintainable, high-impact software.
@@ -15,8 +9,6 @@ Full-Stack Software Engineer with experience delivering end-to-end solutions, fr
 - 🌱 I'm constantly exploring **AI automation, microservices, and cloud architectures**
 - 👯 I'm looking to collaborate on **open-source projects**
 - 📫 How to reach me: **santiagof11.0@outlook.com** / **sanjaimesgo@gmail.com**
-- ⚡ Fun fact: **I turn coffee into code ☕**
-
 ---
 
 ### 🛠️ Tech Stack
